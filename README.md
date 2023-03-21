@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Introduce my name, **Hanson Enrique**.
+
+I'm a Student at Institut Teknologi Harapan Bangsa, currently, I'm in Sixth Semester
+
+Now, I'm interested in Android Development
+I join Bangkit 2023 with Mobile Developer Path
+
+If you are interested to know me well, let's connect on [LinkedIn](https://www.linkedin.com/in/hansonenrique/)
+
 <!--
 **Sonz20/sonz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
