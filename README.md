@@ -2,7 +2,7 @@
 
 Introduce my name, **Hanson Enrique**.
 
-I'm a Student at Institut Teknologi Harapan Bangsa, currently, I'm in Sixth Semester
+I'm a Student at Institut Teknologi Harapan Bangsa, currently, I'm in Eight Semester
 
 Now, I'm interested in Android Development
 I join Bangkit 2023 with Mobile Developer Path
