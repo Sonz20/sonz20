@@ -2,10 +2,9 @@
 
 Introduce my name, **Hanson Enrique**.
 
-I'm a Student at Institut Teknologi Harapan Bangsa, currently, I'm in Eight Semester
+I graduated from Institut Teknologi Harapan Bangsa with a Computer Engineering major.
 
-Now, I'm interested in Android Development
-I join Bangkit 2023 with Mobile Developer Path
+I'm interested in Front-End web development, Back-End web development, and mobile development, especially on android.
 
 If you are interested to know me well, let's connect on [LinkedIn](https://www.linkedin.com/in/hansonenrique/)
 
